@@ -2,5 +2,5 @@
 
 
 void foo(){
-    printf("Hello, I'm foo");
+    printf("Hello, I'm foo\n");
 }
