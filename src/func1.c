@@ -1,0 +1,6 @@
+#include "funcs.h"
+
+
+void foo(){
+    printf("Hello, I'm foo");
+}
